@@ -1,5 +1,25 @@
 {
-    "name": "portfolio2022",
-    "version": "1.0.0",
-    "author": "Emily Arnholt <arnholtcoding@gmail.com>"
+  "name": "devfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyarnholt/arnholtcoding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyarnholt/arnholtcoding/issues"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "16.14.2"
   }
+}
+
