@@ -14,6 +14,6 @@ app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, 'DevFolio/index.html'))
 })
 
-app.listen(port, ()=>{
+app.listen(PORT, ()=>{
     console.log(`Server is listening on port ${PORT}`)
 });
